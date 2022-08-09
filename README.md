@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @mounirtaki
+- 👀 I’m interested in PHP , Laravel , CSS ,ReactJS and new challenges
+- 🌱 I’m currently learning ReactJS
+- 💞️ I’m looking to collaborate on Laravel projects 
+- 📫 How to reach me takimunir@gmail.com
